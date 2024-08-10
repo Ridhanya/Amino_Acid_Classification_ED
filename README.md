@@ -1,4 +1,4 @@
-Automating the Amino Acid Identification in Elliptical Dichroism (ED) Spectrometer With Machine Learning (ML)
+<h1 (or 2 etc.) align="center">Automating the Amino Acid Identification in Elliptical Dichroism (ED) Spectrometer With Machine Learning (ML)</h1>
 
 This repository contains the codes used to acquire results for the amino acid classification problem using the absorption profiles from the ED Spectrometer with ML. The details of what each folder contains is as follows:
 
