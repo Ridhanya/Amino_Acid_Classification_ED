@@ -1,1 +1,4 @@
-
+1. may3fulllinearrankedfiltered.csv : Preprocessed data after the application of data preprocessing technqies
+2. 1_ALLDATASPLIT.ipynb, 2_ALLDATAPREPROCESS.ipynb : codes containining stratified data split and one-hot encoding. Stratified data split in 1_ALLDATASPLIT.ipynb creates trainsplitfinal.csv, valsplitfinal.csv, testsplitfinal.csv. One hot encoding in  2_ALLDATAPREPROCESS.ipynb creates finalXtrain.csv,finalXval.csv,finalXtest.csv,finalYtrain.csv.finalYval.csv.finalYtest.csv.
+3. ALL_Decision.ipynb, ALL_RANDOM.ipynb, ALL_xgboost.ipynb : Files containing codes for Decision Tree, Random Forest and Xgboost algorithms. The final model from ALL_Decision.ipynb is saved as decisionyesweights.pickle, the final model from ALL_RANDOM.ipynb is saved as randomyesweights.pickle, the final model from ALL_xgboost.ipynb is saved as xgbnoweights.pickle. 
+4. 3_ALLAMINOML-Model3_new.ipynb - This files contains codes for the Deep Learning model investigated and the best model is saved as allamino_model3forpaper.h5.
